@@ -1,5 +1,5 @@
 # AlgorithmiComposition
-...some examples of implementation of the main algorithms used in algorithmic composition in Csound:
+...some examples of implementation (in Csouund) of the main algorithms used in algorithmic composition:
 
 0. LONG RUN PROBABILITY AND DISTRIBUTION MODELS
 
