@@ -29,7 +29,10 @@
 5. GENERATIVE GRAMS:
   - L-SYSTEM
 
-
+6. PATHFINDER
+  - A* SEARCH ALGORITHM
+  
+  
 for any questions:
 mnlpql@gmail.com
 ©PasqualeMainolfi
