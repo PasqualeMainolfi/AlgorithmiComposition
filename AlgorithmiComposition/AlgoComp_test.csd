@@ -82,16 +82,16 @@ endif
 
 kinstr init 0
 if(kinstr < sr * ichange) then
-			kinstr += 1
-			if(kinstr = sr * ichange) then
+	kinstr += 1
+	if(kinstr = sr * ichange) then
 
-				prints("\n", 0)
-				prints("...aggiorno le matrici di transizione", 0)
-				prints("\n", 0)
+		prints("\n", 0)
+		prints("...aggiorno le matrici di transizione", 0)
+		prints("\n", 0)
 
-				reinit change
-				kinstr = 0
-		endif
+		reinit change
+		kinstr = 0
+	endif
 endif
 
 	endin
